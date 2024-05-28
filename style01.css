@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+#gameCanvas {
+    margin: 0 auto;
+    border: 1px solid #000;
+}
+
+.scoreBlock {
+    font-size: 25px;
+}
